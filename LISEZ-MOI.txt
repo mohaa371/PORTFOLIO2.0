@@ -1,0 +1,7 @@
+PORTFOLIO BTS SIO — VERSION AVEC CONTACT
+
+Ouvrir le fichier portfolio_bts_sio_contact.html directement dans Chrome ou Edge.
+Le style CSS et le JavaScript sont intégrés au fichier HTML : aucun autre fichier n’est nécessaire pour voir la mise en page.
+
+Pense à remplacer « Prénom NOM », à personnaliser les projets avec tes réalisations réelles et à ajouter ton CV si tu souhaites utiliser le bouton CV.
+L’adresse de contact configurée est mohamed3701@icloud.com.
